@@ -1,7 +1,7 @@
 # Las recetas de betty
 
 > **Alumno:** Sistema web para gestionar recetas de cocina, calcular el escalado automático de porciones y consolidar listas de compras mediante tablas hash .
-> Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
+> Proyecto n.º __ del catálogo · Sitio de referencia: allrecipe · [PRD](docs/PRD.md) · URL publicada: __
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
