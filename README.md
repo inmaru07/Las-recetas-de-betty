@@ -1,6 +1,6 @@
-# Mi producto
+# Las recetas de betty
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
+> **Alumno:** Sistema web para gestionar recetas de cocina, calcular el escalado automático de porciones y consolidar listas de compras mediante tablas hash .
 > Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
